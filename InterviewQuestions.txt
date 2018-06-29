@@ -1,0 +1,71 @@
+Questions
+
+1.What are seven layers of the OSI layer?
+2.Technologies used in your project/Technical knowleage of the project/What can you change in future?
+3.DBMS queries on join and about the use of the primary key.
+4.Print the string in the form of azby..... .
+5.What is interface class and abstract class.
+6.Difference between struct in C and in C++.
+7.How to reverse a sentence like "This is a fox" into "fox a is This".
+8.Difference between assignment operator and copy constructor in C++.
+9.How a class pointer works?
+10.Difference between pointer and reference.
+11.Difference between Multiprocessing and Multithreading.
+12.How to swap two numbers without using a temporary variable?
+13.How to reverse a sentence?
+14.How can you separate positive and negative numbers among a lot?
+15.How to add tWo numbers in java?
+16.what is two tier and three tier architecture?
+17.what are the advantages of primary key?
+18.what are the different style sheets used in web development?
+19.Technologies used in project?
+20.How many tables you created in your project?
+21.Reverse the single linked list.
+22. int main()
+	{
+	   cout<<"are"<<endl;
+	   return;
+	}
+    without modifying main(), print "how are you" using oops concepts.
+23.layers of networks.
+24.expalination of the oops concepts.
+25.find the smallest between 2 numbers without using lesser than or greater than symbol?
+25.which help the java to become platform independent?
+26.Why the port for localhost is 8080 by default?
+27.What is the difference between macros and inline functions?
+28.How to create static variables in c++?
+29.What is the use of having by clause in mysql query?
+30.Queries to alter a column in database.
+31.Program to reverse a linked list.
+32.Program to reverse a string .
+33.What is a memory leak?
+34.swapping of two numbers without using third variable?
+35.add numbers from 1 to 10 using for loop and while loop?
+36.what is auto keyword stand for?
+37.how is the request sent through server?
+38.What is the difference between xml and ordinary file?
+39.What is the difference between static and const?
+40.how to find the middle element in the linked lists?
+41.what is the data segment?
+42.what is meant by system calls?
+43.layers in memory layout.
+44.complete details about project like we need to know how many tables and some main part of code.
+45.implementation of stack.
+46.questions on pointers.
+47.Difference between macros and inline functions
+48.Difference between process and thread
+49.Major Difference between c and c++
+50.Do return types marks polymorphism in c++
+51.suppose a[2], what is the output of print(a) and print(&a)
+52.Write the usage of static keyword with an example
+53.complitation steps
+54.memory layout
+55.virtual memory concepts.
+56.memory allocation in c program.
+57.what is encryption?
+58.memory leak
+59.about the projects.
+
+
+
+
